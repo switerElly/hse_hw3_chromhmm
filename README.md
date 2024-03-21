@@ -18,5 +18,5 @@ NHEK|H3k9ac|H3k9acStdAlnRep1.bam|ControlStdAlnRep1.bam
 NHEK|H4k20me1|H4k20me1StdAlnRep1.bam|ControlStdAlnRep1.bam
 
 ## Выдача после ChromHMM
-| ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/emissions_10.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/transitions_10.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/NHEK_10_overlap.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/NHEK_10_RefSeqTES_neighborhood.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/NHEK_10_RefSeqTSS_neighborhood.png) |
+| ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/ChromHMM/emissions_10.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/ChromHMM/transitions_10.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/ChromHMM/NHEK_10_overlap.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/ChromHMM/NHEK_10_RefSeqTES_neighborhood.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/ChromHMM/NHEK_10_RefSeqTSS_neighborhood.png) |
 | ------------- | ------------- |--------------------| -- | -- |
