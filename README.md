@@ -20,3 +20,7 @@ NHEK|H4k20me1|H4k20me1StdAlnRep1.bam|ControlStdAlnRep1.bam
 ## Выдача после ChromHMM
 | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/ChromHMM/emissions_10.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/ChromHMM/transitions_10.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/ChromHMM/NHEK_10_overlap.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/ChromHMM/NHEK_10_RefSeqTES_neighborhood.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/ChromHMM/NHEK_10_RefSeqTSS_neighborhood.png) |
 | ------------- | ------------- |--------------------| -- | -- |
+
+## Данные из геномного браузера
+| ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-22%2001-04-06.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-22%2001-06-14.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-22%2001-15-27.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-22%2001-22-01.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-22%2001-22-32.png) |
+| ------------- | ------------- |--------------------| -- | -- |
