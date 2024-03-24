@@ -18,11 +18,11 @@ NHEK|H3k9ac|H3k9acStdAlnRep1.bam|ControlStdAlnRep1.bam
 NHEK|H4k20me1|H4k20me1StdAlnRep1.bam|ControlStdAlnRep1.bam
 
 ## Выдача после ChromHMM
-| ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-24%2013-35-10.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-24%2013-34-06.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-24%2013-31-19.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-24%2013-30-03.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-24%2013-29-21.png) |
+| ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/ChromHMM/transitions_10.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/ChromHMM/emissions_10.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/ChromHMM/NHEK_10_overlap.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/ChromHMM/NHEK_10_RefSeqTSS_neighborhood.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/ChromHMM/NHEK_10_RefSeqTES_neighborhood.png) |
 | ------------- | ------------- |--------------------| -- | -- |
 
 ## Данные из геномного браузера
-| ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-24%2019-48-32.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-24%2019-49-06.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-22%2001-15-27.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-22%2001-22-01.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-22%2001-22-32.png) |
+| ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-24%2013-35-10.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-24%2013-34-06.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-24%2013-31-19.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-24%2013-30-03.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-24%2013-32-51.png) |
 | ------------- | ------------- |--------------------| -- | -- |
 
 ## Названия эпигенетических типов(на основе выдачи ChromHMM, геномного браузера и литературы):
