@@ -35,5 +35,6 @@ NHEK|H4k20me1|H4k20me1StdAlnRep1.bam|ControlStdAlnRep1.bam
 |Итог|Transcribed region|Transcribed region|Strong enhancer|Strong enhancer|Active promoter|Active promoter|Strong enhancer|Weak enhancer|Heterochromatin|Polycomb-repressed|
 
 ## Данные из геномного браузера для бонуса
+Итоговый файл для бонуса можно найти [тут](https://drive.google.com/file/d/1GbQx8Ve1GD7BpZrDjuHgi3zrFkcHGNEY/view?usp=sharing).
 | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-24%2019-48-32.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-24%2019-49-06.png) | ![image](https://github.com/switerElly/hse_hw3_chromhmm/blob/main/img/Screenshot%20from%202024-03-24%2019-49-49.png) |
 | ------------- | ------------- |--------------------|
